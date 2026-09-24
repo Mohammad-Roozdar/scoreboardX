@@ -2,9 +2,9 @@ name: ScoreboardX
 main: ScoreBoardX\Main
 version: 1.0.0
 api: 5.0.0
-author: YourName
+author: Mohammad
 description: A professional and fully configurable scoreboard plugin for PMMP 5
-website: https://github.com/YourRepo
+website: https://github.com/Mohammad-Roozdar/scoreboardX
 
 commands:
   scoreboard:
