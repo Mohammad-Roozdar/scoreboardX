@@ -120,7 +120,7 @@ lines:
 
 ## 🐛 Bug Reports & Suggestions
 
-Found a bug or have an idea? Please open an [issue](https://github.com/YourRepo/ScoreboardX/issues).
+Found a bug or have an idea? Please open an [issue](https://github.com/Mohammad-Roozdar/ScoreboardX/issues).
 
 ---
 
@@ -132,7 +132,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 💖 Credits
 
-- **Author:** [YourName](https://github.com/Mohammad-Roozdar)
+- **Author:** [Mohammad](https://github.com/Mohammad-Roozdar)
 - **Inspired by:** The PocketMine-MP community
 
 ---
