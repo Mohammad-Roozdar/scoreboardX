@@ -56,16 +56,45 @@ If you want to build the plugin yourself:
 Example `config.yml`:
 
 ```yaml
-update-interval: 20
+# ==========================================
+#         ScoreboardX Configuration
+# ==========================================
+
+# Update interval in ticks (20 ticks = 1 second)
+# Recommended: 20 (1s), 40 (2s), 10 (0.5s)
+update-interval: 1
+
+# Enable or disable the scoreboard by default on join
 enabled-by-default: true
 
+# Title animation settings
 title:
+  # If true, the title will cycle through the frames below
   animated: true
+  # Animation update interval in ticks (20 = 1 second)
   animation-speed: 20
+  # Frames of the title animation
   frames:
     - "§6§lScoreboardX"
     - "§e§lScoreboardX"
+    - "§a§lScoreboardX"
+    - "§b§lScoreboardX"
+    - "§3§lScoreboardX"
+    - "§9§lScoreboardX"
 
+# Placeholders:
+#   {player}   -> Player name
+#   {online}   -> Online player count
+#   {max}      -> Max player count
+#   {ping}     -> Player ping (colored)
+#   {world}    -> Current world name
+#   {x} {y} {z} -> Player coordinates
+#   {line}     -> A separator line
+#   {tps}      -> Server TPS
+#   {time}     -> Current real time (HH:MM:SS)
+#   {date}     -> Current real date (Y/m/d)
+
+# Scoreboard lines
 lines:
   - "§7§m----------------"
   - "§fPlayer: §b{player}"
@@ -73,10 +102,15 @@ lines:
   - "§fPing: {ping}ms"
   - "§fWorld: §e{world}"
   - "§7§m----------------"
+  - "§fCoordinates:"
   - "§fX: §6{x}"
   - "§fY: §6{y}"
   - "§fZ: §6{z}"
   - "§7§m----------------"
+  - "§fTPS: §a{tps}"
+  - "§fTime: §e{time}"
+  - "§7§m----------------"
+  - "§7ScoreboardX §fv2.0.0"
 ```
 
 ---
