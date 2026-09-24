@@ -1,0 +1,19 @@
+name: ScoreboardX
+main: ScoreBoardX\Main
+version: 1.0.0
+api: 5.0.0
+author: YourName
+description: A professional and fully configurable scoreboard plugin for PMMP 5
+website: https://github.com/YourRepo
+
+commands:
+  scoreboard:
+    description: Manage ScoreboardX
+    usage: "/scoreboard <on|off|reload|version> [player]"
+    aliases: [sb, score]
+    permission: scoreboardx.command
+
+permissions:
+  scoreboardx.command:
+    description: Allows usage of the ScoreboardX command
+    default: true
