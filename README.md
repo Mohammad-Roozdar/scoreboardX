@@ -2,7 +2,7 @@
 
 [![PocketMine-MP](https://img.shields.io/badge/PocketMine--MP-5.0.0+-blue.svg)](https://github.com/pmmp/PocketMine-MP)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock%201.21.130-green.svg)](https://www.minecraft.net/)
-[![Version](https://img.shields.io/badge/version-2.0.0-orange.svg)]()
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
 
 > A modern, lightweight, and fully configurable scoreboard plugin for PocketMine-MP 5.
