@@ -81,8 +81,8 @@ class Main extends PluginBase implements Listener {
         $this->getLogger()->info(TF::GREEN . "ScoreboardX v1.0.0 enabled successfully.");
         $this->getLogger()->info(TF::GOLD . "§l§m----------------------");
         $this->getLogger()->info(TF::GOLD . "§lScoreboardX §fv1.0.0");
-        $this->getLogger()->info(TF::WHITE . "Author: §bYourName");
-        $this->getLogger()->info(TF::WHITE . "Download: §ahttps://github.com/YourRepo");
+        $this->getLogger()->info(TF::WHITE . "Author: §Mohammad");
+        $this->getLogger()->info(TF::WHITE . "Download: §ahttps://github.com/Mohammad-Roozdar/scoreboardX");
         $this->getLogger()->info(TF::GOLD . "§l§m----------------------");
     }
 
