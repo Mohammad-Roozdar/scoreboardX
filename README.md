@@ -26,7 +26,7 @@ ScoreboardX is a professional scoreboard plugin designed for **PocketMine-MP 5.3
 
 ## 📦 Installation
 
-1. Download the latest `ScoreboardX.phar` from the [Releases](https://github.com/YourRepo/ScoreboardX/releases) page.
+1. Download the latest `ScoreboardX.phar` from the [Releases](https://github.com/Mohammad-Roozdar/scoreboardX/releases) page.
 2. Place the `.phar` file inside the `plugins/` folder of your PocketMine-MP server.
 3. Restart the server.
 4. Edit `plugins/ScoreboardX/config.yml` to customize your scoreboard.
@@ -132,7 +132,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 💖 Credits
 
-- **Author:** [YourName](https://github.com/YourName)
+- **Author:** [YourName](https://github.com/Mohammad-Roozdar)
 - **Inspired by:** The PocketMine-MP community
 
 ---
